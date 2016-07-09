@@ -1,0 +1,11 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. The dimensions are defined by the constants DIM_MIN and DIM_MAX, 3 and 9 respectively. The side of the board can be 
+3 to 9 units
+1. The board is represented by a 2 dimensional array. 
+
+2. The greet function is called
+3. init(), draw(), move(), won()
